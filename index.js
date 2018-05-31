@@ -18,4 +18,10 @@ function inc(n){
   return n++
 }
 
-func
+function dec(n){
+  return n--
+}
+
+function makeInt(n){
+  return n.parseInt
+}
